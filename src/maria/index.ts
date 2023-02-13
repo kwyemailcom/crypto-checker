@@ -6,8 +6,8 @@ const mariaconfig = {
         "username": "admin",
         "password": "rjsemfwlak",
         "database": "smilebit",
-        //"host": "smilebit.covbz579fsps.ap-northeast-2.rds.amazonaws.com",
-        "host": "103.1.251.231",
+        "host": "smilebit.covbz579fsps.ap-northeast-2.rds.amazonaws.com",
+        // "host": "103.1.251.231",
         "dialect": 'mariadb'
     },
     "test": {
